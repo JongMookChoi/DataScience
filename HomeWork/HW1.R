@@ -2,7 +2,7 @@ library(babynames)
 library(mdsr)
 library(Hmisc)
 library(tidyverse)
-
+1
 baby_data <- make_babynames_dist()
 baby_data
 
